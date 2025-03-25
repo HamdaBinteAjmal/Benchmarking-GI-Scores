@@ -1,0 +1,112 @@
+
+InputData/Benchmarks/deKegel_output.csv
+InputData/Benchmarks/Koferle.xlsx
+InputData/Chymera/Chymera.csv
+InputData/Chymera/chymera_essential.xlsx
+InputData/Dede/pan-species-control-nonessentials-50genes.txt
+InputData/Dede/pan-species-control-essentials-50genes.txt
+InputData/Dede/counts.txt
+InputData/Ito/CEGv2.txt
+InputData/genenames.txt
+InputData/Ito/Count_data_ParalogV1.xlsx
+InputData/Parrish/AchillesCommonEssentialControls.csv
+InputData/Ito/NEGv1.txt
+InputData/Parrish/GSE178179_pgPEN_counts_PC9.txt
+InputData/Thompson/Guide_Sequences.xlsx
+InputData/Thompson/raw_counts.txt
+InputData/SLKB_calculated_scores.csv
+InputData/Thompson/raw_counts.txt
+InputData/Thompson/raw_counts.txt
+InputData/Thompson/raw_counts.txt
+InputData/Thompson/raw_counts.txt
+InputData/Thompson/raw_counts.txt
+InputData/SLKB_calculated_scores.csv
+InputData/TPM.csv
+InputData/Parrish/GSE120703_d.expr.txt
+InputData/Parrish/GSE120703_d.expr.txt
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Chymera_HAP1_sensitive_lethality.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Chymera_HAP1_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Chymera_RPE1_sensitive_lethality.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Chymera_RPE1_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Dede_Sensitive_Lethality.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Dede_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_ITO_Sensitive.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_ITO_sensitive_recovery.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_ITO_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Parrish_HeLa_Sensitive.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Parrish_HeLa_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Parrish_PC9_Sensitive.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Parrish_PC9_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Thompson_Strong.csv
+Gemini Scripts/GeminiOutput/Filtered/Gemini_Thompson_Sensitive.csv
+Gemini Scripts/GeminiOutput/Gemini_Chymera_HAP1_sensitive_lethality.csv
+Gemini Scripts/GeminiOutput/Gemini_Chymera_HAP1_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_Chymera_RPE1_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_Chymera_RPE1_sensitive_lethality.csv
+Gemini Scripts/GeminiOutput/Gemini_Dede_Sensitive_Lethality.csv
+Gemini Scripts/GeminiOutput/Gemini_Dede_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_ITO_sensitive_recovery.csv
+Gemini Scripts/GeminiOutput/Gemini_ITO_Sensitive.csv
+Gemini Scripts/GeminiOutput/Gemini_Dede_Sensitive_Recovery.csv
+Gemini Scripts/GeminiOutput/Gemini_Parrish_HeLa_Sensitive.csv
+Gemini Scripts/GeminiOutput/Gemini_ITO_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_Parrish_PC9_Sensitive.csv
+Gemini Scripts/GeminiOutput/Gemini_Parrish_HeLa_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_Thompson_Sensitive.csv
+Gemini Scripts/GeminiOutput/Gemini_Parrish_PC9_Strong.csv
+Gemini Scripts/GeminiOutput/Gemini_Thompson_Strong.csv
+*.pyc
+Horlbeck_Py Scripts/Horlbeck Output/Filtered/Horlbeck_dede.csv
+Horlbeck_Py Scripts/Horlbeck Output/Filtered/Horlbeck_Parrish.csv
+Horlbeck_Py Scripts/Horlbeck Output/Filtered/Horlbeck_Ito_From_SLKB.csv
+Horlbeck_Py Scripts/Horlbeck Output/Filtered/Horlbeck_Thompson.csv
+Horlbeck_Py Scripts/Horlbeck Output/Horlbeck_Chymera.csv
+Horlbeck_Py Scripts/Horlbeck Output/Horlbeck_dede.csv
+Horlbeck_Py Scripts/Horlbeck Output/Horlbeck_Ito_From_SLKB.csv
+Horlbeck_Py Scripts/Horlbeck Output/Horlbeck_Parrish.csv
+Horlbeck_Py Scripts/Horlbeck Output/Horlbeck_Thompson.csv
+*.tsv
+Parrish Score Scripts/*
+Parrish Score Scripts/ParrishOutput/Chymera_Parrish.csv
+Parrish Score Scripts/ParrishOutput/Dede_Parrish.csv
+Parrish Score Scripts/ParrishOutput/Parrish_Parrish.csv
+Parrish Score Scripts/ParrishOutput/ito_parrish.csv
+Parrish Score Scripts/ParrishOutput/Thompson_parrish.csv
+zdLFC Scripts/zdLFC Output/ChymeraHAP1.csv
+zdLFC Scripts/zdLFC Output/ChymeraRPE1.csv
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_Chymera_HAP1-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_Chymera_RPE1-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_Dede-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_ITO-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_Parrish_Hela_Only-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/zdLFC_on_Parrish_PC9_Only-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/ZDLFC_on_Thomspon-checkpoint.ipynb
+zdLFC Scripts/zdLFC Output/DeDe_zdLFC.csv
+zdLFC Scripts/zdLFC Output/ITO.csv
+zdLFC Scripts/zdLFC Output/Parrish_Hela.csv
+zdLFC Scripts/zdLFC Output/Parrish_PC9.csv
+zdLFC Scripts/zdLFC Output/Thompson_zdLFC.csv
+*.csv
+Analysis/asd.txt
+Analysis/Figures/~$Fig1.pptx
+Analysis/Figures/plots/Figure-Dummy.png
+Analysis/Figures/plots/Figure-1.png.pptx
+/Orthrus Scripts/OrthrusOutput/Filtered/lfc
+/Orthrus Scripts/OrthrusOutput/Filtered/plots
+/Orthrus Scripts/OrthrusOutput/lfc
+/Orthrus Scripts/OrthrusOutput/plots
+Analysis/.ipynb_checkpoints/Parrish-Analysis-checkpoint.ipynb
+Analysis/.ipynb_checkpoints/ITO-Analysis-checkpoint.ipynb
+/Gemini Scripts/InferedModels-Sonic
+Gemini Scripts/LFC_Analysis.R
+Horlbeck_Py Scripts/.ipynb_checkpoints/Testing-checkpoint.ipynb
+Orthrus Scripts/Thompsoon_delete_later.R
+Analysis/.ipynb_checkpoints/Chymera-Analysis-checkpoint.ipynb
+Analysis/.ipynb_checkpoints/DeDe-Analysis-checkpoint.ipynb
+Horlbeck_Py Scripts/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/ZDLFC_on_Thomspon-Copy1-checkpoint.ipynb
+zdLFC Scripts/.ipynb_checkpoints/ZDLFC_on_Thomspon-Copy1-checkpoint.ipynb
+/Horlbeck_Py Scripts/HORLBECK_Files
+Analysis/Figures/bb.R
+/Horlbeck_Py Scripts
+Analysis/Figures/Fig1.pdf
