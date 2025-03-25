@@ -1,4 +1,5 @@
-
+# LICENSE INFORMATION
+The MIT license applies to the entire repo except for subfolders that have their own license file.
 # Benchmarking Genetic Interaction Scoring Methods for Identifying Synthetic Lethality from Combinatorial CRISPR Screen Data
  
 Data processing and analysis code for the paper of the same name, published in : 
